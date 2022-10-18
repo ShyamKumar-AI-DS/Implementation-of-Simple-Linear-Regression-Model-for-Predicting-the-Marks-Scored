@@ -72,10 +72,11 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
-![d](mm1.png)
-![d](mm2.png)
-![d](mm3.png)
-![d](mm4.png)
+
+![mm1](https://user-images.githubusercontent.com/93427182/196404656-7709c516-f896-441f-a873-9eff58768add.png)
+![mm2](https://user-images.githubusercontent.com/93427182/196404649-da09cc70-e5fb-4301-babd-b7e90d22e16b.png)
+![mm3](https://user-images.githubusercontent.com/93427182/196404634-0406f187-78b8-4745-8485-291462cba588.png)
+![mm4](https://user-images.githubusercontent.com/93427182/196404661-88e74021-2bb8-411f-a444-9dba7fab00ee.png)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
